@@ -1,6 +1,6 @@
 # Escalação de Privilégios em Linux — Teoria e Como Aparece em CTF
 
-> Complementa o [guia prático de comandos](guia_privesc_linux_ctf.md) — aqui o foco é **entender o porquê** de cada mecanismo, e como isso se traduz no design de desafios Boot2Root.
+> Complementa o [guia prático de comandos](cheatsheets/privesc_linux_ctf.md) — aqui o foco é **entender o porquê** de cada mecanismo, e como isso se traduz no design de desafios Boot2Root.
 
 ---
 
