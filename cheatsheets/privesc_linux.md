@@ -1,6 +1,8 @@
 # Guia de Escalação de Privilégios (Linux) para CTF
 ### Boot2Root 
 
+> Para entender o **porquê** de cada mecanismo (SUID, capabilities, sudo, etc.) e como ele aparece no design de desafios CTF, veja a [teoria de privesc Linux](../categories/teoria_privesc_linux.md).
+
 Contexto: você já tem uma shell como usuário comum (via web, RCE, SSH). Agora o objetivo é virar `root`.
 
 Metodologia base:
